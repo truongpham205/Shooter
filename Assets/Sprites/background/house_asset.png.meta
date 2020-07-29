@@ -1,19 +1,82 @@
 fileFormatVersion: 2
-guid: cbc20f78cef8d094db8a6433eb4f9a8e
+guid: 7be81e3cd71704bc9bccdacbe28ecb62
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 6813626332008448432
-    second: fragile-wall_0
+      213: -4688245845139963413
+    second: house_asset_0
   - first:
-      213: -6076705832638087513
-    second: fragile-wall_1
+      213: -6253817217734415229
+    second: house_asset_1
   - first:
-      213: 259762849792794079
-    second: fragile-wall_2
+      213: -4965325383966366609
+    second: house_asset_2
   - first:
-      213: 4670846920859237991
-    second: fragile-wall_3
+      213: 1888827792769858742
+    second: house_asset_3
+  - first:
+      213: 6209227670162577328
+    second: house_asset_4
+  - first:
+      213: -3317067443729935187
+    second: house_asset_5
+  - first:
+      213: -6501666274226985631
+    second: house_asset_6
+  - first:
+      213: 5434496129379156771
+    second: house_asset_7
+  - first:
+      213: 4886705234075488807
+    second: house_asset_8
+  - first:
+      213: -7811495747082767197
+    second: house_asset_9
+  - first:
+      213: 1894692193620482305
+    second: house_asset_10
+  - first:
+      213: -3726013131116539539
+    second: house_asset_11
+  - first:
+      213: 6778740464558542725
+    second: house_asset_12
+  - first:
+      213: -3708708459269050111
+    second: house_asset_13
+  - first:
+      213: -4695613025712850769
+    second: house_asset_14
+  - first:
+      213: 5321794736693819159
+    second: house_asset_15
+  - first:
+      213: -1127952585107016249
+    second: house_asset_16
+  - first:
+      213: 6255616043210239344
+    second: house_asset_17
+  - first:
+      213: -5860680392030637522
+    second: house_asset_18
+  - first:
+      213: 4342543354540448452
+    second: house_asset_19
+  - first:
+      213: 1997057375729167049
+    second: house_asset_20
+  - first:
+      213: 7082790064724338083
+    second: house_asset_21
+  - first:
+      213: 2381912925979164380
+    second: house_asset_22
+  - first:
+      213: -2734637241845762822
+    second: house_asset_23
+  - first:
+      213: 5215539383407456936
+    second: house_asset_24
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -52,13 +115,13 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 2
+  spriteMode: 3
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 100
-  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteBorder: {x: 433, y: 409, z: 78, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
   alphaIsTransparency: 1
@@ -69,7 +132,7 @@ TextureImporter:
   maxTextureSizeSet: 0
   compressionQualitySet: 0
   textureFormatSet: 0
-  applyGammaDecoding: 1
+  applyGammaDecoding: 0
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -97,91 +160,7 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites:
-    - serializedVersion: 2
-      name: fragile-wall_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0b18c9f7c0dde8e50800000000000000
-      internalID: 6813626332008448432
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fragile-wall_1
-      rect:
-        serializedVersion: 2
-        x: 16
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 7aeff01bd343baba0800000000000000
-      internalID: -6076705832638087513
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fragile-wall_2
-      rect:
-        serializedVersion: 2
-        x: 32
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: fdd1eb38fecda9300800000000000000
-      internalID: 259762849792794079
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: fragile-wall_3
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 0
-        width: 16
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 76eba0ef68e22d040800000000000000
-      internalID: 4670846920859237991
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
+    sprites: []
     outline: []
     physicsShape: []
     bones: []
